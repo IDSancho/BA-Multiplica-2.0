@@ -2,7 +2,8 @@
 
 ## 📝 Descripción
 
-El programa de capacitación "BA Multiplica 2.0" se centra en el análisis de datos utilizando herramientas como Excel y Power BI. Proporciona un profundo conocimiento de estas herramientas y permite a los participantes adquirir habilidades en análisis de datos, inteligencia empresarial y bases de datos. El programa también incluye módulos de inteligencia emocional y gestión de proyectos.
+El programa de capacitación "BA Multiplica 2.0" se centra en el análisis de datos utilizando herramientas como Excel avanzado, Power BI inicial y SQL. Proporciona un profundo conocimiento de estas herramientas y permite a los participantes adquirir habilidades en análisis de datos, inteligencia empresarial, bases de datos y manipulación de datos. El programa también incluye dos talleres de inteligencia emocional y gestión de proyectos, que fueron evaluados individualmente y son de carácter obligatorio para obtener el certificado de aprobación del programa.
+
 
 ## 🎯 Objetivos
 
@@ -47,9 +48,11 @@ Los asistentes deben tener conocimientos básicos de Excel, incluyendo tipos de 
 - Taller de Gestión de proyectos
 - Taller de Inteligencia Emocional
 
-## 🔍 Trabajo Final
+## 🔍 Trabajo Final y Talleres
 
-El proyecto final consistió en la creación de un informe detallado utilizando los conocimientos adquiridos en el programa. Los participantes tuvieron que cargar y analizar datos reales de un kiosco en CABA, generando métricas y gráficos para proporcionar información clara y útil. La duración estimada de la actividad fue de dos horas y se completó con éxito, lo que resultó en una calificación excelente.
+En el proyecto final, completé satisfactoriamente la creación de un informe detallado utilizando los conocimientos adquiridos en el programa. Cargué y analicé datos reales de un kiosco en CABA, generando métricas y gráficos para proporcionar información clara y útil. La duración estimada de la actividad fue de dos horas, y obtuve una calificación excelente.
+
+Además, los dos talleres realizados como parte del programa, uno enfocado en Gestión de Proyectos y otro en Inteligencia Emocional, también fueron evaluados individualmente. Demostré un sólido entendimiento de estos temas y recibí calificaciones destacadas en ambos talleres.
 
 ---
 
